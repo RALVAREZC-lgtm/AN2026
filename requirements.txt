@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+plotly
+folium
+streamlit-folium
+reportlab
+requests
+bcrypt
